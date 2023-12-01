@@ -4,7 +4,7 @@
 ## Project Overview
 This repository contains two Django applications: `account` and `product`. The `account` app is responsible for user authentication, registration, and profile management. On the other hand, the `product` app handles product management, including listing products, displaying product details, and managing a user's shopping cart.
 
-## `account` App
+## account App
 ### Forms
 #### `forms.py`
 The `forms.py` file in the `account` app contains three forms: `AccountAuthenticationForm`, `RegistrationForm`, and `AccountUpdateForm`. These forms are designed for user authentication, registration, and updating user profiles, respectively.
@@ -31,7 +31,7 @@ The `views.py` file contains several views for the `account` app, including:
 - **`logout_view`**: Logs out the user.
 - **`edit_account_view`**: Allows users to edit their account information.
 
-## `product` App
+## product App
 ### Models
 #### `models.py`
 The `models.py` file in the `product` app defines data models related to product management.
