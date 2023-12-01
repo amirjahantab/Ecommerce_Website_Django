@@ -1,5 +1,3 @@
-# Ecommerce_Website_Django 
-
 
 ## Project Overview
 This repository contains two Django applications: `account` and `product`. The `account` app is responsible for user authentication, registration, and profile management. On the other hand, the `product` app handles product management, including listing products, displaying product details, and managing a user's shopping cart.
